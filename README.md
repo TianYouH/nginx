@@ -7,6 +7,14 @@
 [windows文档](http://nginx.org/en/docs/windows.html)
 
 
+简书
+>[nginx安装](https://www.jianshu.com/p/0f2cd118fd45)
+
+>[nginx基础](https://www.jianshu.com/p/d0f9ce48e3c3)
+
+
+
+
 启动进程
   
     方法一: 双击exe;
