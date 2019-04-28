@@ -85,3 +85,75 @@
 2019/01/26 18:26:43 [error] 1828#6192: *4 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
 2019/01/26 19:43:22 [error] 1828#6192: *5 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
 2019/01/26 19:43:22 [error] 1828#6192: *5 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/26 20:02:57 [emerg] 16536#4456: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:04:27 [emerg] 4544#23632: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:08:28 [emerg] 25388#13672: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:08:29 [emerg] 26844#12112: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:08:30 [emerg] 2784#27304: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:08:40 [emerg] 14968#24568: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:08:45 [emerg] 28384#17004: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:13 [emerg] 25688#11012: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:14 [emerg] 19640#17080: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:15 [emerg] 27720#13872: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:16 [emerg] 19632#23632: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:17 [emerg] 24052#23200: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:18 [emerg] 9784#16656: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:19 [emerg] 26580#19080: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:20 [emerg] 27356#27780: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:21 [emerg] 26960#2360: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:22 [emerg] 11100#11300: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:23 [emerg] 28152#9816: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:24 [emerg] 19924#16440: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:25 [emerg] 7224#15788: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:26 [emerg] 5276#9876: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:27 [emerg] 26512#9016: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:28 [emerg] 21948#23288: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:29 [emerg] 27364#24636: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:31 [emerg] 27176#4748: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:32 [emerg] 9408#2148: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:33 [emerg] 26688#15556: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:34 [emerg] 4444#21116: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:35 [emerg] 17452#8740: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/26 20:09:55 [emerg] 13944#26524: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/28 18:23:32 [emerg] 5888#32180: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/28 18:23:37 [emerg] 13020#8860: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/28 18:23:56 [emerg] 4264#12672: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/28 18:24:09 [emerg] 7492#18668: unknown directive "stud_status" in D:\Program Files\nginx-1.15.8/conf/nginx.conf:52
+2019/04/28 18:58:39 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:39 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:39 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:39 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:39 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:39 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:40 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:40 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:40 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:40 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:41 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:42 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:42 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:42 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:42 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/04/28 18:58:43 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2019/04/28 18:58:43 [error] 30064#32408: *1 CreateFile() "D:\Program Files\nginx-1.15.8/html/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
